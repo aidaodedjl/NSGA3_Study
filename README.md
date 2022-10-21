@@ -3,10 +3,10 @@
 
 **文件构成：**
 
-**data.txt：**数据
+**data.txt：** 数据
 
-**nsga3_theory：**算法原理
+**nsga3_theory：** 算法原理
 
-**nsga3_process：**初步算法
+**nsga3_process：** 初步算法
 
-**nsga3_process_large：**扩大进化代数后的优化算法
+**nsga3_process_large：** 扩大进化代数后的优化算法
